@@ -6,4 +6,4 @@ The following resources are currently available:
 1. Meeting agenda template
 2. Meeting minutes template
 3. Executive Reflection guide template
-4. JHSC Representative Reflection guide
+4. [JHSC Representative Reflection guide] (https://github.com/bj16xq/Open-Union-Practices/blob/main/JHSC%20Rep%20Reflection%20Prompts%20v1.1.pdf)
