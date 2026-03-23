@@ -1,7 +1,8 @@
+*For the downloadable ODF file, see [here]()
 [insert Union logo]
 
 # Annual General Meeting Agenda
-## _day, April _th, 202_ @ _:00 - _:00 PM
+## _day, April _th , 202_ @ _:00 - _:00 PM
 
 ## [Location]
 
@@ -24,6 +25,14 @@ At this point, the officers of the union present at the meeting will do a roll c
 ### 4.	Previous Meeting Minutes
 
 ### 5.	Executive Reports
+
+#### President
+
+#### Vice-President
+
+#### Treasurer
+
+#### Recording Secretary
 
 ### 6.	Reports of Delegates and Committees
 
