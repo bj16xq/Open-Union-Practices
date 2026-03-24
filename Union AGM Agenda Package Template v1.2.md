@@ -1,4 +1,4 @@
-*For the downloadable ODF file, see [here]()
+*For the downloadable ODF file, see [here](https://github.com/bj16xq/Open-Union-Practices/blob/main/Union%20AGM%20Agenda%20Package%20Template%20v1.2.odt)
 
 [insert Union logo]
 
