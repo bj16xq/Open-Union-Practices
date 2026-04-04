@@ -16,6 +16,8 @@ The purpose of using these resources are to support labour responsibilities rang
 **How?** 
 Resources on this repository are openly accessible. The expectation is that, should improvements be made, that they be openly shared in a similar manner (see details below).
 
+For explanations of each resource, please view [the Wiki.](https://github.com/bj16xq/Open_Labour_Practices/wiki)
+
 ## Overall Process
 
 **Passive Use**
