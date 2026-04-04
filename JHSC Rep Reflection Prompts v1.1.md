@@ -45,7 +45,7 @@ Games can increase engagement in reflection activities! Below are the steps:
 1. Get together a group of JHSC Representatives from your union or workplace
 2. Take turns rolling a pair of dice, which will randomize which specific practice you should focus on (e.g., meeting vs. inspection, formal vs. informal, etc.); since there are 18 options, the table below guides what you get based on your roll of dice.
 3. Whichever specific practice your roll leads you to, share reflections on: **pros**, **cons**, and overall **verdict** of “current practices”; then, think of **pros**, **cons**, and overall **verdict** of “potential changes in practice” (refer to table on previous page)
-4. Discussion the reflections of each person for the purpose of coming up with tangible take-aways
+4. Discuss the reflections of each person for the purpose of coming up with tangible take-aways
 
 | 1st die | 2nd die | Specific practice |
 |---|---|---|
