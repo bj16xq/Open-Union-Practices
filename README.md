@@ -1,11 +1,11 @@
-# Open Labour Practices
-This repository hosts information on and files for open labour practices (OLP) and open labour resources (OLR).
-The purpose behind OLP/OLR is to promote collaboration, inclusion, and innovation in trade union activities (and labour activities more broadly) by sharing effective resources that are updated as improvements are made. This idea extends from the tradition of open educational practices (OEP).
+# Open Practices in Organised Labour
+This repository hosts information on and files for open practices and open access resources in organised labour.
+The purpose behind OLP/OLR is to promote collaboration, inclusion, and innovation in trade union activities by sharing effective resources that are updated as improvements are made. This idea extends from the tradition of open educational practices (OEP).
 
 ## About
 
 **What?** 
-This repository features reusable resources for labour endeavours such as union governance and worker representation. The emphasis is on tools for labour unions.
+This repository features reusable resources for labour endeavours such as union governance and worker representation. The emphasis is on tools for trade unions.
 
 **Who?** 
 The intended users are leaders in labour unions, but may be useful to non-unionized workers and the general public more broadly.
